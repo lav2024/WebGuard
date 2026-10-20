@@ -5,7 +5,6 @@ WebGuard fetches a target URL, evaluates HTTP response headers against
 six security rules, and presents findings in an interactive dashboard
 with CSV export.
 
-
 ---
 
 ## Project Structure
